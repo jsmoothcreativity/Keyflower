@@ -17,8 +17,8 @@ document.addEventListener("DOMContentLoaded", () => {
     message.innerHTML = `
       <div class="egg-finale-card">
         <h2>Heart is found 💖</h2>
-        /*<p>You take the time and found it</p>
-        <p>That’s how carefully I want to look after your heart too.</p>*/
+        <!--<p>You take the time and found it</p>
+        <p>That’s how carefully I want to look after your heart too.</p>-->
       </div>
     `;
 
